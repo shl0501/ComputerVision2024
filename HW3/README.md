@@ -3,7 +3,7 @@
 
 이름|영어|정보|수학
 ---|--|---|--|
-나동빈|98점|![image](https://github.com/shl0501/ComputerVision2024/assets/114389927/171860a2-09a9-486f-9c5a-fb5954032d7a)|![image](https://github.com/shl0501/ComputerVision2024/assets/114389927/593b58a1-55db-4999-bd37-3224e04c4191)|
+![image](https://github.com/shl0501/ComputerVision2024/assets/114389927/593b58a1-55db-4999-bd37-3224e04c4191)|![image](https://github.com/shl0501/ComputerVision2024/assets/114389927/171860a2-09a9-486f-9c5a-fb5954032d7a)|![image](https://github.com/shl0501/ComputerVision2024/assets/114389927/ba5e91bc-ab55-495e-ab96-74f8cae12dc5)|![![image](https://github.com/shl0501/ComputerVision2024/assets/114389927/9d77782a-ec34-4de4-bd5b-63fb77e8aa95))|
 홍길동|97점|78점|90점|
 이순신|90점|90점|90점|
 
